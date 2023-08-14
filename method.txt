@@ -1,0 +1,36 @@
+Array.isArray() 💹
+Array.from() 💹
+
+concat() 💹
+
+every() 💹
+
+fill() 💹
+forEach()
+filter()
+find()
+findIndex()
+flat()
+
+incldues()
+indexOf()
+
+join()
+
+lastIndexOf()
+
+map() 
+
+reverse()
+reduce()
+
+slice()
+splice()
+sort()
+shift()
+some()
+
+pop() 💹
+push() 💹
+
+unshift()
